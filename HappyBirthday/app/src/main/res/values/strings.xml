@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="main_text_birthday">Happy Birthday Sam</string>
+    <string name="main_text_from">From Emma</string>
+</resources>
